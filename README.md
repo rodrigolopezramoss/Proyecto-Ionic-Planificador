@@ -28,16 +28,14 @@ Ponemos una hora coherente y guardamos, lo que nos lleva de vuelta a la página 
 
 De vuelta a la página, podemos ver como la tarea se ha guardado
 
-![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20de%20creaci%C3%B3n-modificaci%C3%B3n4.png)
-
-
-Si vamos a otro día, veremos como efectivamente si está guardada pero no se muestra porque no le corresponde ese día(Esto es una demostración)
-
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20del%20d%C3%ADa2.png)
 
 
-
+Si vamos a otro día, veremos como efectivamente si está guardada pero no se muestra porque no le corresponde ese día(Esto es una demostración)
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20del%20d%C3%ADa3.png)
+
+
+![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20de%20creaci%C3%B3n-modificaci%C3%B3n4.png)
 
 
 
