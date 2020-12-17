@@ -1,5 +1,5 @@
 # Proyecto-Ionic-Planificador
-Mediante esta aplicación se podrá planificar cada día de la semana, dandole a cada tarea un nombre y el plazo de tiempo en el que realizarla.
+Mediante esta aplicación se podrá planificar cada día de la semana, dándole a cada tarea un nombre y el plazo de tiempo en el que realizarla.
 
 
 ### La pantalla principal consta de una serie de botones y cada uno lleva a un día de la semana concreto.
