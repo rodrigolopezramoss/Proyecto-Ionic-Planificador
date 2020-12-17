@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-toolbar color="azulote">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="home"></ion-back-button>
+    </ion-buttons>
+    <ion-title class="ion-text-center">Tareas del jueves</ion-title>
+    <ion-buttons slot="end" padding>
+      <ion-button (click)="edicion()">
+        <ion-icon slot="icon-only" name="add"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-list>
+    <div *ngFor="let t of tareasService.getTareas()">
+      <ion-item *ngIf="t.dia=='jueves'">
+      <ion-label>{{ t.titulo }}</ion-label>
+      <ion-label>{{ t.horIni | date:"HH:mm"}} - {{ t.horFin | date:"HH:mm"}}</ion-label>
+      <ion-icon name="pencil" (click)="edicion(t.id)">
+      </ion-icon>
+      <ion-icon name="blank"></ion-icon>
+      <ion-icon name="trash" (click)="presentAlertConfirm(t)">
+      </ion-icon>
+    </ion-item>
+    </div>
+  </ion-list>
+</ion-content>
