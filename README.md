@@ -51,18 +51,22 @@ Volvemos al lunes y creamos otra tarea.
 
 
 A lo mejor no es tiempo suficiente, modifiquemos la hora de finalización.
+
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20de%20creaci%C3%B3n-modificaci%C3%B3n4.png)
 
 
-Ahora sí, aunque teniendo que correr dos horas creo que la de las 13:00 no la necesitamos; borremosla.
+Ahora sí, aunque teniendo que correr dos horas creo que la de las 13:00 no la necesitamos; borrémosla.
+
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20del%20d%C3%ADa5.png)
 
 
 Confirmamos...
+
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20del%20d%C3%ADa6.png)
 
 
-Y ya solo nos queda una tarea
+Y ya solo tenemos una tarea.
+
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20del%20d%C3%ADa7.png)
 
 
