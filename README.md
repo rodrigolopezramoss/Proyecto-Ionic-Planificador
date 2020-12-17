@@ -55,7 +55,7 @@ Mediante esta aplicación se podrá planificar cada día de la semana.
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20de%20creaci%C3%B3n-modificaci%C3%B3n4.png)
 
 
-### Ahora sí, aunque teniendo que correr dos horas creo que la de las 13:00 no la necesitamos; **_borrémosla.
+### Ahora sí, aunque teniendo que correr dos horas creo que la de las 13:00 no la necesitamos; **_borrémosla_**.
 
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/P%C3%A1gina%20del%20d%C3%ADa5.png)
 
@@ -71,4 +71,4 @@ Mediante esta aplicación se podrá planificar cada día de la semana.
 
 
 
-Eso sería todo lo que es capaz de hacer esta aplicación, elfichero src es el que se ha subido. 
+Esto sería todo lo que es capaz de hacer esta aplicación, el fichero src es el que se ha subido. 
