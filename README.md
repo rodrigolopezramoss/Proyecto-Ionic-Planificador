@@ -2,7 +2,7 @@
 Mediante esta aplicación se podrá planificar cada día de la semana.
 
 
-## La pantalla principal consta de una serie de botones y cada uno lleva a un dia de la semana concreto.
+### La pantalla principal consta de una serie de botones y cada uno lleva a un dia de la semana concreto.
 
 ![alt text](https://github.com/rodrigolopezramoss/Proyecto-Ionic-Planificador/blob/main/Capturas_ionic/Men%C3%BA_Principal.png)
 
